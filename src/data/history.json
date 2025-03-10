@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Development Program",
+    "organisation": "SMART INDIA HACKATHON",
+    "startDate": "Sept, 2021",
+    "endDate": "march 2022",
+    "experiences": ["Worked on problem solving", "creating a web application based on problem statement"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Mobile App Developer",
+    "organisation": "Sprout Knowledge Solutions",
+    "startDate": "Aug, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": ["Worked on Andriod Studio", "Designed the Women protection app"],
+    "imageSrc": "history/microsoft.png"
+  }
+  
+]

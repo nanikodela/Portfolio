@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Work Force Analytics and Evaluation System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Java Script"]
+    },
+  {
+    "title": "Setting own cloud",
+    "imageSrc": "projects/project.png",
+    "description": "By using DNS we are managed the Cloud Server.",
+    "skills": ["Virtual Machine","linux commands"]
+  },
+  {
+    "title": "Chat Application",
+    "imageSrc": "projects/project.png",
+    "description": "To create a friendly chat application.",
+    "skills": ["React", "Express", "Node","Mongo db"]
+  }
+]
